@@ -1,0 +1,7 @@
+langchain
+transformers
+pinecone-client
+faiss-cpu
+sentence-transformers
+python-dotenv
+torch
